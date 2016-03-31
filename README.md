@@ -1,2 +1,3 @@
 # hello-world
-Hello World stuff
+
+Hi, I'm Kim!
